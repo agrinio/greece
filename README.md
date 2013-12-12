@@ -1,0 +1,4 @@
+greece
+======
+
+Cryptocurrency coin
